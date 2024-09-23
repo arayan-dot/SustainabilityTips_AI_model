@@ -1,15 +1,13 @@
 
 # SustainabilityTips_AI_Model
 
-SustainabilityTips_AI_Model is a chatbot specifically designed to assist users with inquiries related to phone recommendations. 
-By utilizing a large language model (LLM) trained on data about various phone options, this chatbot provides insightful advice 
-on selecting, maintaining, and caring for smartphones.
+SustainabilityTips_AI_Model is a chatbot designed to help users make sustainable choices. By leveraging a large language model trained on sustainability data, it provides practical tips and advice on reducing environmental impact, promoting eco-friendly practices, and supporting long-term sustainability goals.
 
 ## Key Features:
 
-- **User-Friendly Interface**: Intuitive and easy-to-navigate, designed to efficiently address phone recommendation queries.
-- **Comprehensive Database**: A vast repository of information on different phone models, their features, and performance.
-- **Personalized Guidance**: Tailored suggestions and recommendations based on the user's preferences and inputs.
+- **User-Friendly Interface**: Easy-to-navigate platform designed to offer quick, actionable sustainability tips.
+- **Comprehensive Database**: A vast repository of data on eco-friendly practices, green technologies, and sustainable living.
+- **Personalized Guidance**: Offers tailored recommendations on how users can incorporate sustainability into their daily lives, based on their specific lifestyle and preferences.
 
 ## Installation
 
