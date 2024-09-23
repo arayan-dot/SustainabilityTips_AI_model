@@ -43,4 +43,4 @@ gaianet start
 ## How to Use:
 
 1. Open your web browser and navigate to the generated link.
-2. Start interacting with the chatbot by typing your phone suggestion-related questions.
+2. Start interacting with the chatbot by typing your questions.
